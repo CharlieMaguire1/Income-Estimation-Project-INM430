@@ -1,0 +1,6 @@
+# Ignore raw and processed data
+*.csv
+*.xlsx
+
+# Ignore model python pickle files
+*.pkl
